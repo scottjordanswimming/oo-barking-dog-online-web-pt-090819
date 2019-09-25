@@ -26,4 +26,5 @@ fido = Dog.new
 fido.name = "Fido"
 fido.bark = "woof!"
 
-puts lassie.name
+puts fido.name
+puts fido.bark
