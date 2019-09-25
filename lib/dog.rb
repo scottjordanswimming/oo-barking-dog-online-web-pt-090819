@@ -11,7 +11,7 @@ def name
 end
 
 def bark
-  puts "woof!"
+  @this_dogs_bark
 end
 end
 
